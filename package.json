@@ -1,0 +1,14 @@
+{
+  "name": "sample-aws-servless-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "zip": "rm ./lambdas.zip -f && zip -x lambdas.zip main.tf -X -r ./lambdas *",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.2"
+  }
+}
