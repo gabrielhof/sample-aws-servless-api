@@ -1,5 +1,11 @@
 # sample-aws-servless-api
 
+This is just a sample project used by me for learning how to use:
+
+- AWS API Gateway
+- AWS Lambda
+- Terraform
+
 ## Requirements:
 
 - Node.JS and NPM
